@@ -1,4 +1,0 @@
-name Debug
-world0
-level4
-stageMode3
